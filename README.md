@@ -6,6 +6,7 @@
 + Instal Node Dependencies
 + Start Node App
 + Start React App
++ https://youtu.be/HgaJW2I4Mbk?feature=shared
 
 
 
